@@ -6,6 +6,8 @@ TagManager:
   tags:
   - GameEvent
   - CaccaZone
+  - Paper
+  - PuliziaZone
   layers:
   - Default
   - TransparentFX
