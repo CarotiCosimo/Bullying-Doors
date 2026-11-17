@@ -8,6 +8,7 @@ TagManager:
   - CaccaZone
   - Paper
   - PuliziaZone
+  - paperpoint
   layers:
   - Default
   - TransparentFX
